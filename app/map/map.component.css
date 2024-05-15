@@ -1,0 +1,33 @@
+ p{font-size: 30px;}
+#map{width:70vw;
+background-color: whitesmoke;}
+#info{width:30vw;
+    background-color: lightblue;
+    height: 100vh;
+}
+#world_heading{
+    font-size: 50px;
+}
+#info_heading{
+    font-size: 50px;
+}
+#cname{
+    font-size: 35px;
+}
+.country{
+    fill: black;
+}
+.country:hover{
+    fill: yellow;
+}
+.ctitle{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 60px;
+    margin-left: 5%;
+    
+}
+.cresponse{
+    font-size: 40px;
+    margin-left: 10%;
+}
